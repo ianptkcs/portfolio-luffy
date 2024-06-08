@@ -14,7 +14,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
 
-`git clone https://github.com/yourusername/your-repo-name.git`
+`git clone https://github.com/ianptkcs/portfolio-luffy.git`
 
 2. Open the index.html file in your web browser.
 
